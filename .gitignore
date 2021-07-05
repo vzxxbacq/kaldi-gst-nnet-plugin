@@ -1,0 +1,5 @@
+.idea/
+cmake-build-debug/
+test/conf
+test/ivector_extractor
+test/models
